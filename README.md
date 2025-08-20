@@ -11,8 +11,7 @@ It ensures gates lower automatically when a train is approaching or when a vehic
 - **Step2_Alternatives/** → Two solutions + real-world example  
 - **Step3_4_Decision/** → Evaluation and chosen solution  
 - **Step5_6_Implementation/** → Word code + flowchart image  
-- **Step7_Testing/** → Test cases and refinements  
-- **README.md** → Project overview  
+- **Step7_Testing/** → Test cases and refinements   
 
 ---
 
