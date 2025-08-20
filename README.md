@@ -23,16 +23,16 @@ It ensures gates lower automatically when a train is approaching or when a vehic
 ---
 
 ## 🚦 System Summary
-- **Inputs:** Train sensor, Vehicle sensor, Manual override  
-- **Outputs:** Gate state (Lowered/Raised), Warning lights and sounds  
+- **Inputs:** Train sensor, Vehicle sensor, Manual Settings  
+- **Outputs:** Gate state (Lowered/Raised), Warning Alarms/Signals 
 - **Logic:**  
-  - If train detected OR vehicle on tracks → Gates lowered + warning signals  
-  - If no train AND no vehicle → Gates raised + signals off  
+  - If train detected OR vehicle on tracks ; Gates lowered + warning signals  
+  - If no train AND no vehicle ; Gates raised + signals off  
   - Includes safety buffer after train passes  
 
 ---
 
 ## 👨‍💻 Author
-- Student ID: uxxxxxx  
-- Unit: Introduction to Computer Engineering (8223/10096)  
+- Student ID: u3279481 
+- Unit: Introduction to Computer Engineering (8223)
 - University of Canberra  
